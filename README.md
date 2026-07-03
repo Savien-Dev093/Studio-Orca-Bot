@@ -21,6 +21,8 @@ O Studio Orca Bot é uma solução desenvolvida para automatizar o atendimento a
 - 🗄 Armazenamento em banco de dados
 - 🤖 Fluxo automatizado
 
+<img width="1024" height="1024" alt="1000062001" src="https://github.com/user-attachments/assets/ec45d030-916b-454f-b408-27a63362649d" />
+
 ---
 
 ## 🛠 Tecnologias
