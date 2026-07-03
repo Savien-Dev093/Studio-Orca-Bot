@@ -2,7 +2,7 @@
 
 Sistema profissional de atendimento automatizado desenvolvido para empresas que utilizam Telegram como canal de comunicação.
 
-![Logo](assets/logo.png)
+<img width="1024" height="1024" alt="1000062001" src="https://github.com/user-attachments/assets/841612c0-9625-45ef-93a3-77af873addfc" />
 
 ---
 
